@@ -1,8 +1,7 @@
 # Product Store Project
 
 Name: Rashika Marwah  
-UID: 24BDA70310  
-Section: 1B  
+UID: 24BDA70310
 
 ## Project Description
 This is a Product Store web application built using React and Next.js.  
